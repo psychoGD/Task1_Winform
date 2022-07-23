@@ -1,0 +1,11 @@
+C:\Users\Huseyn\source\repos\BakuLondonTask\BakuLondonTask\bin\Debug\BakuLondonTask.exe.config
+C:\Users\Huseyn\source\repos\BakuLondonTask\BakuLondonTask\bin\Debug\BakuLondonTask.exe
+C:\Users\Huseyn\source\repos\BakuLondonTask\BakuLondonTask\bin\Debug\BakuLondonTask.pdb
+C:\Users\Huseyn\source\repos\BakuLondonTask\BakuLondonTask\obj\Debug\BakuLondonTask.csproj.AssemblyReference.cache
+C:\Users\Huseyn\source\repos\BakuLondonTask\BakuLondonTask\obj\Debug\BakuLondonTask.csproj.SuggestedBindingRedirects.cache
+C:\Users\Huseyn\source\repos\BakuLondonTask\BakuLondonTask\obj\Debug\BakuLondonTask.Form1.resources
+C:\Users\Huseyn\source\repos\BakuLondonTask\BakuLondonTask\obj\Debug\BakuLondonTask.Properties.Resources.resources
+C:\Users\Huseyn\source\repos\BakuLondonTask\BakuLondonTask\obj\Debug\BakuLondonTask.csproj.GenerateResource.cache
+C:\Users\Huseyn\source\repos\BakuLondonTask\BakuLondonTask\obj\Debug\BakuLondonTask.csproj.CoreCompileInputs.cache
+C:\Users\Huseyn\source\repos\BakuLondonTask\BakuLondonTask\obj\Debug\BakuLondonTask.exe
+C:\Users\Huseyn\source\repos\BakuLondonTask\BakuLondonTask\obj\Debug\BakuLondonTask.pdb
